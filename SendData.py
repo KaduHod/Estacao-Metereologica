@@ -6,7 +6,7 @@ import urequests
 
 from wifilib import conecta
 print('Conectando a internet.')
-station = conecta("CLARO_2G71669C","NaoVaiRoubarAMinhaSenhaNão")
+station = conecta("TiraOZoio","NaoVaiRoubarAMinhaSenhaNão")
 if not station.isconnected():
         print('Não conectado :(')
 else:
