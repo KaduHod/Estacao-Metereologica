@@ -1,4 +1,4 @@
-# Esta-o-metereologica
+# Estação-metereologica
 Trabalho da puc pr sobre Iot
 
 Nele usei um microprocessador esp32, um medidor de temperatura e humidade DHT11 e um Relé
